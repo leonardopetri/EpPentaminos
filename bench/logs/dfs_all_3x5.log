@@ -1,0 +1,51 @@
+=========================================
+  Pentaminós — Resolução e Jogo Interativo
+=========================================
+
+[1] Resolver
+[2] Jogar
+[0] Sair
+> Linhas (m): Colunas (n): Validação: OK
+Estratégia: [d]fs ou [b]fs ?
+> Encontrar todas as soluções? (s/n): 
+--- Resultado (DFS) ---
+Soluções encontradas : 28
+Estados explorados   : 302
+Tempo decorrido      : 34.00 ms
+
+Solução #1:
+  0 1 2 3 4 
+0 Y Y Y Y T 
+1 L Y T T T 
+2 L L L L T 
+
+Solução #2:
+  0 1 2 3 4 
+0 Y Y Y Y P 
+1 U Y U P P 
+2 U U U P P 
+
+Solução #3:
+  0 1 2 3 4 
+0 V V V U U 
+1 V P P P U 
+2 V P P U U 
+
+Solução #4:
+  0 1 2 3 4 
+0 V V V P P 
+1 V L P P P 
+2 V L L L L 
+
+Solução #5:
+  0 1 2 3 4 
+0 V V V N N 
+1 V N N N L 
+2 V L L L L 
+
+(... mais 23 soluções omitidas)
+
+[1] Resolver
+[2] Jogar
+[0] Sair
+> 
